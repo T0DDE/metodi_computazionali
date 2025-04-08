@@ -99,7 +99,7 @@ Of course you can easily reach the required precision by dividing the input numb
   A better method would be to implement [**CONTINUED FRACTIONS**](https://en.wikipedia.org/wiki/Continued_fraction#Best_rational_approximations):
   1. Initialisation of variables:
      * Let $x$ be the real number you want to approximate
-     * Set $a_0 = \floor{x} (the floor function gives the greatest integer less than or equal to $x$)
+     * Set $a_0 = \floor{x}$ (the floor function gives the greatest integer less than or equal to $x$)
      * Let $x_1 = x - a_0$
   2. Generate continued fractions by iterating the following steps until the required precision (e.g. $p=10^{-5}$) is not met:
      * Let $a_i$ be the floor of $1/x_i$

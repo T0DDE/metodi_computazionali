@@ -16,7 +16,7 @@ N.B. gli appuntamenti sono stati divisi tra lezioni vere e proprie, chiacchierat
 
 - [Il programma](Metodi_Computazionali.pdf) del corso è riassunto nel file linkato
 - [lectures](lectures) contiene il materiale utilizzato durante le sessioni di "oggi spiega e non interroga".
-- [hands_on](hands_on) è la cartella che contiene gli esercizi proposti durante il corso ("oggi interroga").
+- [hands-on](hands-on) è la cartella che contiene gli esercizi proposti durante il corso ("oggi interroga").
 - [datasets](datasets) contiene dei file che servono da input per alcune lezioni/esercitazioni.
 
 ## Elenco delle lezioni
